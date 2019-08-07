@@ -10,6 +10,6 @@ $yarn install
 $yarn dev
 
 
-CREATE user works!
-CREATE session works! 
+CREATE user works,
+CREATE session works,
 UPDATE user works!
