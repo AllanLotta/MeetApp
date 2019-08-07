@@ -3,11 +3,11 @@
 The api is configured to run with docker (postgres)
 go to src/config/database.js for change the configuration of conection
 
-run you docker 
+run your docker 
 
-yarn install
+$yarn install
 
-yarn dev
+$yarn dev
 
 
 CREATE user works!
